@@ -85,8 +85,9 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 
 ---
 
-```
 
+
+```markdown
 ## 📸 Screenshots
 
 ### 1. 📱 App Icon on Device  
@@ -129,6 +130,11 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 ### 8. 🔗 Firebase Realtime Database  
 ![image](https://github.com/user-attachments/assets/2e201797-e0b4-4684-8b64-ae225a2a4a5b)  
 ![image](https://github.com/user-attachments/assets/a8471d9a-2cb8-4943-8ea2-c1db12f01b7a)
+```
+
+---
+
+
 
 
 
