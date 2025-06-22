@@ -46,3 +46,13 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 - **Cart Module** – Add/edit/remove items before checkout
 - **Order & Token Module** – Places the order and tracks it in real-time
 - **Firebase Backend** – Handles authentication, storage, and sync
+## 📲 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-.git
+Open in Android Studio
+
+Connect your device or use an emulator
+
+Click Run ▶️ to launch the app
