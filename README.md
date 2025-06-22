@@ -49,13 +49,11 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 
 
 
-````markdown
 ## 📲 How to Run
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-.git
-````
 
 2. **Open the project** in **Android Studio**.
 
