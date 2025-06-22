@@ -56,3 +56,42 @@ Open in Android Studio
 Connect your device or use an emulator
 
 Click Run ▶️ to launch the app
+📸 Screenshots
+1. 📱 App Icon on Device
+![image](https://github.com/user-attachments/assets/f745f418-f580-4b77-865e-2379df2bc725)
+
+
+2. 🔐 Login / Register Screen
+![image](https://github.com/user-attachments/assets/aa7f2d6f-5ee8-4f82-946f-4412f9bc028a)
+
+
+3. 🏠 Home Screen
+![image](https://github.com/user-attachments/assets/b422ece6-6c1b-466b-877f-396ae82358fb)
+
+
+4. 🔍 Search Function
+![image](https://github.com/user-attachments/assets/3d1b5a71-1a8c-4b09-8311-92f019c894a7)
+![image](https://github.com/user-attachments/assets/35599439-52c1-48e5-94fb-9843a7e55096)
+
+
+5. 🛒 Cart Page
+![image](https://github.com/user-attachments/assets/4d2ae525-e1da-4bc5-b0cc-08a09f88c66a)
+
+
+6. 💳 Checkout Page
+![image](https://github.com/user-attachments/assets/39988207-67d4-4a14-a961-41fb2bb43a61)
+![image](https://github.com/user-attachments/assets/cac9e7bf-2bb9-42ad-8dc5-f992f3571450)
+
+
+8. ✅ Order Confirmation
+![image](https://github.com/user-attachments/assets/01981d02-6c09-4cc7-a520-b972cca5ad56)
+
+
+Firebase Realtime Database
+![image](https://github.com/user-attachments/assets/2e201797-e0b4-4684-8b64-ae225a2a4a5b)
+
+![image](https://github.com/user-attachments/assets/a8471d9a-2cb8-4943-8ea2-c1db12f01b7a)
+
+
+
+
