@@ -85,7 +85,9 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 
 ---
 
+Got it, Krisha! Here's **only the clean copy-paste content** — no extra explanation:
 
+---
 
 ```markdown
 ## 📸 Screenshots
@@ -132,7 +134,6 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 ![image](https://github.com/user-attachments/assets/a8471d9a-2cb8-4943-8ea2-c1db12f01b7a)
 ```
 
----
 
 
 
