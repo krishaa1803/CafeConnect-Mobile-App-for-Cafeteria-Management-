@@ -46,40 +46,47 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 - **Cart Module** – Add/edit/remove items before checkout
 - **Order & Token Module** – Places the order and tracks it in real-time
 - **Firebase Backend** – Handles authentication, storage, and sync
-## 📲 How to Run
+
+---
 
 ## 📲 How to Run
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-.git
-Open the project in Android Studio.
+````
 
-Connect your Android device or use an emulator.
+2. **Open the project** in **Android Studio**.
 
-Set up Firebase:
+3. **Connect your Android device** or use an **emulator**.
 
-Go to Firebase Console
+4. **Set up Firebase**:
 
-Create a new Firebase project
+   * Go to [Firebase Console](https://console.firebase.google.com/)
+   * Create a new Firebase project
+   * Enable:
 
-Enable:
+     * **Authentication** (Email/Password or Phone if used)
+     * **Realtime Database**
+   * Download `google-services.json` from Firebase
+   * Place it inside:
 
-Authentication (Email/Password or Phone if used)
+     ```
+     app/ → google-services.json
+     ```
 
-Realtime Database
+5. **Sync Gradle** in Android Studio.
 
-Download google-services.json from Firebase
+6. Click **Run ▶️** to launch the app.
 
-Place it inside:
 
-pgsql
-Copy
-Edit
-app/ → google-services.json
-Sync Gradle in Android Studio.
 
-Click Run ▶️ to launch the app.
+```
+
+---
+
+```
+
 📸 Screenshots
 1. 📱 App Icon on Device
 ![image](https://github.com/user-attachments/assets/f745f418-f580-4b77-865e-2379df2bc725)
