@@ -48,14 +48,38 @@ Traditional campus cafeterias often face challenges like long queues, unclear wa
 - **Firebase Backend** – Handles authentication, storage, and sync
 ## 📲 How to Run
 
-1. Clone the repository:
+## 📲 How to Run
+
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-.git
-Open in Android Studio
+Open the project in Android Studio.
 
-Connect your device or use an emulator
+Connect your Android device or use an emulator.
 
-Click Run ▶️ to launch the app
+Set up Firebase:
+
+Go to Firebase Console
+
+Create a new Firebase project
+
+Enable:
+
+Authentication (Email/Password or Phone if used)
+
+Realtime Database
+
+Download google-services.json from Firebase
+
+Place it inside:
+
+pgsql
+Copy
+Edit
+app/ → google-services.json
+Sync Gradle in Android Studio.
+
+Click Run ▶️ to launch the app.
 📸 Screenshots
 1. 📱 App Icon on Device
 ![image](https://github.com/user-attachments/assets/f745f418-f580-4b77-865e-2379df2bc725)
