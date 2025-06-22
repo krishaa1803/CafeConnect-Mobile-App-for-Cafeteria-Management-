@@ -1,7 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-)
-![GitHub last commit](https://img.shields.io/github/last-commit/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-)
-![GitHub language](https://img.shields.io/github/languages/top/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-)
-![GitHub issues](https://img.shields.io/github/issues/krishaa1803/CafeConnect-Mobile-App-for-Cafeteria-Management-)
 # ☕ CafeConnect - Mobile App for Cafeteria Management
 
 **CafeConnect** is a smart, Firebase-backed Android application designed to streamline food ordering in college cafeterias. It offers students a fast, secure, and queue-free experience—from browsing the digital menu to receiving real-time pickup updates.
