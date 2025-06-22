@@ -1,0 +1,6 @@
+# Android/IntelliJ/Gradle stuff to ignore
+.gradle/
+.idea/
+build/
+*.iml
+local.properties
